@@ -37,9 +37,12 @@ export function NovaHero() {
             >
               Enter mission control
             </Button>
-            <p className="text-sm text-white/55">
-              Interactive demo · sample communities
-            </p>
+            <a
+              href="/vision"
+              className="inline-flex h-12 items-center justify-center rounded-xl border border-white/25 bg-transparent px-6 text-base text-white transition-colors hover:bg-white/10"
+            >
+              Watch the 2075 vision
+            </a>
           </div>
         </div>
       </div>

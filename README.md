@@ -8,6 +8,7 @@ An interactive concept demo for **Project NOVA 2075**: aerospace links, smart en
 2. Select a community on the map (Arctic, Pacific atoll, Andean corridor, or coastal megacity).
 3. Toggle system layers and watch the live readout change.
 4. Run an **emergency drill** to see a step-by-step coordinated response.
+5. Watch the English vision film at **/vision** — a short narrative about society in 2075.
 
 All scenarios use sample data for exploration — no accounts or backend required.
 
