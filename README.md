@@ -34,7 +34,7 @@ Project NOVA explores how satellite connectivity, renewable smart grids, and AI-
 
 ## Concept papers
 
-Research notes by Konstantina Alexandropoulou (themed page backgrounds for Project NOVA):
+Research notes by Konstantina Alexandropoulou (AI neural-network page backgrounds for Project NOVA):
 
 | Topic | Document |
 | --- | --- |
