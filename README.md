@@ -31,3 +31,14 @@ Then open [http://localhost:3847](http://localhost:3847).
 ## Vision
 
 Project NOVA explores how satellite connectivity, renewable smart grids, and AI-assisted emergency response can make communities safer, smarter, and more inclusive.
+
+## Concept papers
+
+Research notes by Konstantina Alexandropoulou (themed page backgrounds for Project NOVA):
+
+| Topic | Document |
+| --- | --- |
+| Topic 2 — Secure & Transparent Digital Ecosystems for Aerospace Governance | [docs/Topic2_Secure_Transparent_Digital_Ecosystems_Alexandropoulou.docx](docs/Topic2_Secure_Transparent_Digital_Ecosystems_Alexandropoulou.docx) |
+| Topic 3 — Advanced Materials & Manufacturing for Personalized & Sustainable Aerospace | [docs/Topic3_Advanced_Materials_Manufacturing_Alexandropoulou.docx](docs/Topic3_Advanced_Materials_Manufacturing_Alexandropoulou.docx) |
+| Topic 4 — Space–Earth Integration for Future Human Endeavors | [docs/Topic4_Space-Earth_Integration_Alexandropoulou.docx](docs/Topic4_Space-Earth_Integration_Alexandropoulou.docx) |
+| How Aerospace Connects with Energy Grids, Housing & Community Services | [docs/Aerospace_Energy_Grids_Housing_Community_Alexandropoulou.docx](docs/Aerospace_Energy_Grids_Housing_Community_Alexandropoulou.docx) |
