@@ -1,27 +1,32 @@
-# project-nova-2075
-An innovative vision for 2075 integrating aerospace technology, AI, satellite connectivity, and sustainable energy to build safer, smarter, and more inclusive communities.
-# Project NOVA 2075 🌍🚀
+# NOVA 2075 — Interactive Demo
 
-### A Connected World for Everyone
+An interactive concept demo for **Project NOVA 2075**: aerospace links, smart energy, AI emergency response, and connected communities working together by 2075.
 
-## Overview
-Project NOVA is a conceptual vision for the year 2075, exploring how aerospace technology, artificial intelligence, satellite connectivity, and sustainable energy can work together to improve quality of life.
+## What you can do
+
+1. Open the orbital hero and enter **Mission Control**.
+2. Select a community on the map (Arctic, Pacific atoll, Andean corridor, or coastal megacity).
+3. Toggle system layers and watch the live readout change.
+4. Run an **emergency drill** to see a step-by-step coordinated response.
+
+All scenarios use sample data for exploration — no accounts or backend required.
+
+## Run locally
+
+```bash
+npm install
+npm run dev -- --port 3847
+```
+
+Then open [http://localhost:3847](http://localhost:3847).
+
+## Stack
+
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
 
 ## Vision
-To create safer, smarter, and more inclusive communities where everyone has access to essential services, reliable energy, emergency support, and meaningful social connections.
 
-## Key Components
-- **Satellite Connectivity:** Connecting remote and underserved communities.
-- **Smart Energy Systems:** Integrating renewable energy and intelligent energy grids.
-- **AI-Powered Emergency Response:** Supporting faster responses to natural disasters and emergencies.
-- **Connected Communities:** Improving access to housing, transportation, healthcare, and public services.
-- **Human Well-being:** Reducing isolation and promoting safety and inclusion.
-
-## Long-Term Goal
-To explore how aerospace innovation can contribute to a more resilient, sustainable, and interconnected society by 2075.
-
-## Challenge
-Developed as a conceptual project exploring the future of integrated mobility and societal systems.
-
-## Author
-Independent Student Project
+Project NOVA explores how satellite connectivity, renewable smart grids, and AI-assisted emergency response can make communities safer, smarter, and more inclusive.
