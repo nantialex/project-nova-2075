@@ -43,6 +43,12 @@ export function NovaHero() {
             >
               Watch the 2075 vision
             </a>
+            <a
+              href="/studio"
+              className="inline-flex h-12 items-center justify-center rounded-xl border border-white/25 bg-transparent px-6 text-base text-white transition-colors hover:bg-white/10"
+            >
+              Open Lovable studio
+            </a>
           </div>
         </div>
       </div>

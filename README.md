@@ -9,8 +9,16 @@ An interactive concept demo for **Project NOVA 2075**: aerospace links, smart en
 3. Toggle system layers and watch the live readout change.
 4. Run an **emergency drill** to see a step-by-step coordinated response.
 5. Watch the English vision film at **/vision** — a short narrative about society in 2075.
+6. Open **/studio** for the Lovable presentation (vision, technology pillars, roadmap, simulator), also live at [suds-and-sunshine-studio.lovable.app](https://suds-and-sunshine-studio.lovable.app/).
 
 All scenarios use sample data for exploration — no accounts or backend required.
+
+## Lovable studio
+
+The NASA TTT presentation built in Lovable is linked into this repo:
+
+- Live app: https://suds-and-sunshine-studio.lovable.app/
+- In-app page: `/studio` (embed + local summary of pillars/roadmap)
 
 ## Run locally
 
